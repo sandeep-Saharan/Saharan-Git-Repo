@@ -1,0 +1,4 @@
+#this is first python program
+#here we will print the following word
+
+print ("Hello Python")
